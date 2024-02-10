@@ -4,7 +4,6 @@ import SearchNavbar from "./component/SearchNavbar";
 import searchDocument from "./document/document";
 import Returndata from "./component/Returndata";
 import Home from "./component/Home";
-// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   const checkurl = () => {
