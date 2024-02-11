@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blood-Relations.io/static/css/main.aef3c2e0.css",
+    "main.js": "/Blood-Relations.io/static/js/main.615336d6.js",
+    "index.html": "/Blood-Relations.io/index.html",
+    "main.aef3c2e0.css.map": "/Blood-Relations.io/static/css/main.aef3c2e0.css.map",
+    "main.615336d6.js.map": "/Blood-Relations.io/static/js/main.615336d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aef3c2e0.css",
+    "static/js/main.615336d6.js"
+  ]
+}
